@@ -11,7 +11,6 @@
 I build enterprise-grade AI agent systems and Azure cloud solutions for regulated industries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeffreychuau-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffreychuau)
-[![Website](https://img.shields.io/badge/Web-jeffreychu.com.au-1db99a?style=flat&logo=safari&logoColor=white)](https://jeffreychu.com.au)
 
 ---
 
