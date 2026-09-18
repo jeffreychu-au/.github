@@ -13,7 +13,7 @@
 
 ---
 
-I build enterprise-grade AI agent systems and Azure cloud solutions for regulated industries. Pre-Sales Solution Architect at [Experteq](https://experteq.com) (Microsoft Tier 1 CSP). Founder of [BeyondAI](https://beyondai.com.au).
+I am pre-sales solution architect and build enterprise-grade AI agent systems and Azure cloud solutions for regulated industries.
 
 ### What I ship
 
