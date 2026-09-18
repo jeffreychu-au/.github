@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeffreychu-au/.github/main/assets/banner.png" alt="Jeffrey Chu — Cloud & AI Solution Architect" width="100%" />
+  <img src="https://raw.githubusercontent.com/jeffreychu-au/.github/main/assets/GiHubCoverPage1.png" alt="Jeffrey Chu — Cloud & AI Solution Architect" width="100%" />
 </p>
 
 <h3 align="center">Jeffrey Chu</h3>
