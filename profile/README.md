@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/jeffreychuau"><img src="https://img.shields.io/badge/LinkedIn-jeffreychuau-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://beyondai.com.au"><img src="https://img.shields.io/badge/BeyondAI-beyondai.com.au-6366f1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01eiIvPjxwYXRoIGQ9Ik0yIDE3bDEwIDUgMTAtNSIvPjxwYXRoIGQ9Ik0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg==&logoColor=white" /></a>
   <a href="https://github.com/jeffreychu-au"><img src="https://img.shields.io/badge/Repos-5-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
